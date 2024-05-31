@@ -1,11 +1,10 @@
 import "./App.css";
-import { SeudoClases } from "./Components/SeudoClases/SeudoClases";
-
+import { Form } from "./Components/Form/Form";
 
 function App() {
   return (
     <>
-      <SeudoClases/>
+      <Form/>
     </>
   );
 }
